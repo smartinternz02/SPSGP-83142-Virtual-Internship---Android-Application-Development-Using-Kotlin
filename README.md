@@ -1,7 +1,7 @@
-# SPSGP-72576-Virtual-Internship---Android-Application-Development-Using-Kotlin
+# SPSGP-83142-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
 
-Google Deeveloper Profile - https://g.dev/sanyamagrawal
+Google Deeveloper Profile - https://g.dev/sohilkhan468
 
 GD link for Demo Video - https://drive.google.com/file/d/1iEsJWrb41jzhPYgwJIhh8GOvq_FgvcgM/view?usp=sharing
 
